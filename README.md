@@ -1,5 +1,5 @@
 ### Hello, I'm [Marcos](https://marcos-rojas.github.io/portfolio/) :wave:
-Happy to see you here ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+Happy to see you here ![visitors](https://visitor-badge.glitch.me/badge?page_id=rojas-marcos)
 <!--
 **marcos-rojas/marcos-rojas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -26,7 +26,16 @@ As an engineer, I enjoy learning new tools as well as new approaches to solve a 
 
 ** :octocat: Currently lookin for a job role as Data Scientist**
 
+## 🧰 Languages and Tools:
+<p align="center">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+</p>
+
 ### While I'm not studying:
 - :dog: Walking the dog everydayand:running: doing exercise
 - :musical_score: I really love music which peace my thought. Last time : [Howl's moving castle](https://www.youtube.com/watch?v=UwxatzcYf9Q)
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcos-rojas&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-rojas&theme=tokyonight)
