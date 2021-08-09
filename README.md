@@ -27,8 +27,6 @@ As an engineer, I enjoy learning new tools as well as new approaches to solve a 
 ** :octocat: Currently lookin for a job role as Data Scientist**
 
 ### While I'm not studying:
-- :dog: Walking the dog everyday
-- :running: I do exercise as a way to regulate my energy
+- :dog: Walking the dog everydayand:running: doing exercise
 - :musical_score: I really love music which peace my thought. Last time : [Howl's moving castle](https://www.youtube.com/watch?v=UwxatzcYf9Q)
--  
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcos-rojas&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
