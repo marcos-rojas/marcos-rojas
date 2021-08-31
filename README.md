@@ -23,7 +23,7 @@ I'm a mechatronic engineer :mortar_board: with focus on data analytics and data 
 - :pencil2: Writing is powerful, I think it can be more helpful that reading when learning something
 - :rocket: I'm currently learning more about Data Structures and Algorithms to optimize the way I think when programming
 - :musical_score: I really love music which peace my mind. Last time : [Howl's moving castle](https://www.youtube.com/watch?v=UwxatzcYf9Q)
- ### :octocat: Currently looking for a entry role job as Data Scientist 
+ ### :octocat: Currently looking for a entry role job as Data Analyst 
 <!--
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcos-rojas&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
