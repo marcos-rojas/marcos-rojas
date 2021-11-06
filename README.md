@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a mechatronic engineer :mortar_board: with focus on data analytics and data science. I like programming :computer:, reading and making data tell its own story :loudspeaker:. As an engineer, I enjoy learning new tools as well as new approaches to solve a problem with a critical thinking mindset.
+I'm a mechatronic engineer :mortar_board: with focus on web development. I like programming :computer:, reading and making data tell stories :loudspeaker:. As an engineer, I enjoy learning new tools as well as new approaches to solve a problem with a critical thinking mindset.
 ### Talking about personal stuff:
-- 🌱 I’m currently studying and practicing ReactDevelopment as well as Japanese :u6708:
+- 🌱 I’m currently studying and practicing React JS as well as Japanese :u6708:
 - 👯 I’m looking to collaborate on web dev project all over the world
 - 💬 Ask me about anything related to robotics or programming, I'm happy to help
 - 📫 How to reach me: Github or **[Gmail](rojas.marcos@pucp.edu.pe)**
